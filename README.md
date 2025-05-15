@@ -2,7 +2,7 @@
 
 Step into the world of Arise Crossover with the ultimate automation tool designed to elevate your gameplay. This **free, keyless script** is packed with features that let you farm, fight, and conquer effortlessly. Whether you're grinding for shadows or breezing through dungeons, this script is your gateway to a more thrilling experience.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/RobloxScriptsMan/Arise-Crossover/blob/main/arise%20crossover.png)
 
 ---
 
